@@ -144,7 +144,7 @@ hr {
     margin: 0 auto;
     width: 70%;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 3fr 3fr ;
   }     
 
   .four-boxes {
@@ -163,7 +163,9 @@ hr {
      width: 100%;
   }
   .wedding {
-    background: url('../images/wedding_photo.jpg') no-repeat;
+    background: url('../images/wedding_photo.jpg') no-repeat center center;
+    height: 100%;
+     width: 100%;
   }
   .outdoor {
    background: url('../images/outdoor_photo.jpg') no-repeat center center;;
@@ -251,6 +253,38 @@ footer{
     }
 
 
+    /* media queries */
+
+@media screen and (max-width: 1200px) {
+    #services {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 950px){
+    
+    #services {
+        grid-template-columns: 3fr ;
+      }     
+    }
+
+@media  (max-width: 768px) {
+
+    #cover_text{
+        right: 25%;
+    }
+    .box{
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-bottom: 5%;
+        margin-top: 5%;
+        }
+        #gallery {
+            columns: 2;            
+            width: 90%;
+           
+        }
+}
 
 
 
