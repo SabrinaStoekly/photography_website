@@ -111,6 +111,7 @@ hr {
     padding-top: 50px;
     color: inherit;
     letter-spacing: 2px; 
+    line-height: 25px;
     
  }
 
@@ -281,8 +282,7 @@ footer{
         }
         #gallery {
             columns: 2;            
-            width: 90%;
-           
+            width: 90%;           
         }
 }
 
