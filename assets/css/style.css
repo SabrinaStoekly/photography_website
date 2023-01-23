@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body{
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    background-color: #321f28;
+    color: #e79e47;
+}
+
+/* header + nav bar */
+
+header a {
+    text-decoration: none;
+    color: #734046;
+}
+
+h1 {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #a05344;
+    font-weight: lighter;
+}
+
+#logo{
+     font-size: 300%;
+     text-align: center;
+     line-height: 75px;
+}
+
+hr {
+    border-top: 1px solid #734046;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#menu {
+    font-size: 150%;
+    text-align: center;
+    letter-spacing: 4px;
+    line-height: 50px;
+}
+
+#menu li {
+    display:inline-block;
+    margin-right: 30px;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid #734046;
+}
+
+/* hero image */
+
+#hero_outer{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+#cover_text a {
+    text-decoration: none;
+    color: inherit;
+    opacity: 0.6;
+}
+
+#cover_text a:hover {
+    opacity: 1;
+}
+
+#hero_image{
+    height: 600px;
+    width: 90%;
+    background: url('../images/hero_image_my_website.jpg') no-repeat center center;
+    margin: 0 auto;
+}
+
+#cover_text{
+    font-size: 80%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 40px;
+
+    padding-top: 15px;
+    padding-left: 10px;
+    text-align: center;
+
+    background-color: rgba(0, 0, 0, .6);
+
+    bottom: 60px;
+    right: 40%;
+
+    position: absolute;
+
+    border-radius: 15px;
+}
+
+/* about us */
+
+.about_us  {
+    text-align: center;
+    padding-top: 50px;
+    color: inherit;
+    letter-spacing: 2px; 
+    
+ }
+
+.about_us p {
+    margin-top: 10px;
+    
+}
+
+#welcome {
+    font-size: 200%;
+    text-transform: uppercase;
+    color:#734046;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+#more_us a {
+    background-color: rgba(0, 0, 0, .6);
+    color: inherit;
+    padding: 2px 5px;
+    border-radius: 5px;
+    line-height: 50px;
+
+}
+
+
+
+
+
+
