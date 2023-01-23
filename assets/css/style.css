@@ -163,14 +163,34 @@ hr {
      width: 100%;
   }
   .wedding {
-    background: url('../images/wedding_photo.jpg') no-repeat center center;;
+    background: url('../images/wedding_photo.jpg') no-repeat;
   }
   .outdoor {
    background: url('../images/outdoor_photo.jpg') no-repeat center center;;
   }
   .studio {
-    background: url('../images/studio_photo.jpg') no-repeat center center;;
+    background: url('../images/studio_photo.jpg') no-repeat center center;
   }
+
+  /* Footer*/
+
+footer{
+    height: 150px;
+}
+
+.social_networks {
+    text-align: center;
+}
+
+.social_networks li {
+    display: inline;
+}
+
+.social_networks i {
+    font-size: 200%;
+    padding: 3%;
+    color: #e79e47;
+}
 
 /* Table */
 
@@ -213,6 +233,21 @@ hr {
         border: 1px solid #e79e47;
         border-radius: 10px;
         padding: 5px;
+    }
+
+    /* Galley */
+
+    #gallery {
+        clear: both;
+        line-height: 0;
+        columns: 3;
+        column-gap: 0;
+        width: 80%;
+        margin: 0 auto;
+    }
+    
+    #gallery > img {
+        width: 100%;
     }
 
 
