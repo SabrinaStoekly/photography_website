@@ -15,14 +15,14 @@ body{
 
 header a {
     text-decoration: none;
-    color: #734046;
+    color: #fff;
 }
 
 h1 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #a05344;
+    color: #FFC23C;
     font-weight: lighter;
 }
 
@@ -33,7 +33,7 @@ h1 {
 }
 
 hr {
-    border-top: 1px solid #734046;
+    border-top: 1px solid #fff;
     width: 50%;
     margin: 0 auto;
 }
@@ -51,7 +51,11 @@ hr {
 }
 
 #menu a:hover{
-    border-bottom: 1px solid #734046;
+    border-bottom: 1px solid #fff;
+}
+
+.active{
+    border-bottom: 1px solid #fff;
 }
 
 /* hero image */
@@ -64,29 +68,19 @@ hr {
     position: relative;
 }
 
-#cover_text a {
-    text-decoration: none;
-    color: inherit;
-    opacity: 0.6;
-}
-
-#cover_text a:hover {
-    opacity: 1;
-}
-
 #hero_image{
     height: 600px;
-    width: 90%;
+    width: 80%;
     background: url('../images/hero_image_my_website.jpg') no-repeat center center;
     margin: 0 auto;
 }
 
-#cover_text{
+#email_request {
     font-size: 80%;
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-
+    
     width: 300px;
     height: 40px;
 
@@ -101,7 +95,17 @@ hr {
 
     position: absolute;
 
-    border-radius: 15px;
+    border-radius: 10px;
+}
+
+#email_request a {
+    color:#e79e47;
+    text-decoration: none;
+    opacity: 0.6;   
+}
+
+#email_request a:hover{
+    opacity: 1;   
 }
 
 /* about us */
@@ -110,7 +114,7 @@ hr {
     text-align: center;
     padding-top: 50px;
     color: inherit;
-    letter-spacing: 2px; 
+    letter-spacing: 4px; 
     line-height: 25px;
     
  }
@@ -123,7 +127,7 @@ hr {
 #welcome {
     font-size: 200%;
     text-transform: uppercase;
-    color:#734046;
+    color:#fff;
     letter-spacing: 2px;
     font-weight: lighter;
     justify-content: center;
@@ -143,7 +147,7 @@ hr {
 
 #services {
     margin: 0 auto;
-    width: 70%;
+    width: 80%;
     display: grid;
     grid-template-columns: 3fr 3fr ;
   }     
@@ -155,7 +159,7 @@ hr {
 
  .four-boxes h2 {
     font-weight: lighter;
-    color: #734046;
+    color: #fff;
 
  }
   .event {
@@ -190,12 +194,20 @@ footer{
 }
 
 .social_networks i {
-    font-size: 200%;
-    padding: 3%;
+    font-size: 150%;
+    padding: 1%;
     color: #e79e47;
 }
 
-/* Table */
+/* Form */
+
+input{
+    color: #e79e47;
+}
+
+textarea{
+    color: #e79e47;
+}
 
   .box{
     margin-top: 5%;
@@ -205,7 +217,7 @@ footer{
     opacity: 0.8;
     padding: 15px;
     border-radius: 15px;  
-    color: #734046;
+    color: #fff;
     }
 
     legend{
@@ -253,6 +265,30 @@ footer{
         width: 100%;
     }
 
+    /* About Us */
+
+    #article_contant {
+        text-align: center;
+    }
+
+    #article_contant h2 {
+        font-size: 150%;
+        letter-spacing: 2px;
+    }
+
+    #article_contant p {
+         letter-spacing: 4px;
+         width: 50%;
+         margin: 0 auto;         
+    }
+
+    #article_contant > img {
+        height: 400px;
+        width: 550px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
 
     /* media queries */
 
@@ -271,7 +307,7 @@ footer{
 
 @media  (max-width: 768px) {
 
-    #cover_text{
+    #email_request{
         right: 25%;
     }
     .box{
