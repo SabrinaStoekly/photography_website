@@ -138,6 +138,86 @@ hr {
 
 }
 
+/* on site services that are availble */ 
+
+#services {
+    margin: 0 auto;
+    width: 70%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }     
+
+  .four-boxes {
+    padding: 100px 0;
+    text-align: center;
+ }
+
+ .four-boxes h2 {
+    font-weight: lighter;
+    color: #734046;
+
+ }
+  .event {
+     background: url('../images/live_concert.jpg')no-repeat center center;
+     height: 100%;
+     width: 100%;
+  }
+  .wedding {
+    background: url('../images/wedding_photo.jpg') no-repeat center center;;
+  }
+  .outdoor {
+   background: url('../images/outdoor_photo.jpg') no-repeat center center;;
+  }
+  .studio {
+    background: url('../images/studio_photo.jpg') no-repeat center center;;
+  }
+
+/* Table */
+
+  .box{
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 5%;
+    opacity: 0.8;
+    padding: 15px;
+    border-radius: 15px;  
+    color: #734046;
+    }
+
+    legend{
+        text-transform: uppercase;
+        text-decoration: underline overline;
+        text-align: center;
+        padding: 10px;
+        opacity: 1;
+    }
+
+    .inputBox{
+        position: relative;
+        color: #e79e47;
+        text-align: center;
+    }
+    .inputuser{
+        background: none;
+        border: none;
+        border-bottom: 1px solid #e79e47;
+        width: 100%;
+        letter-spacing: 2px;   
+        opacity: 0.6;     
+    }
+
+    .bottom{
+        background-color: #321f28;
+        color: #e79e47;
+        border: 1px solid #e79e47;
+        border-radius: 10px;
+        padding: 5px;
+    }
+
+
+
+
 
 
 
