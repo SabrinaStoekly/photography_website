@@ -152,6 +152,8 @@ hr {
     width: 80%;
     display: grid;
     grid-template-columns: 3fr 3fr ;
+   
+    
   }     
 
   .four-boxes {
@@ -309,8 +311,16 @@ textarea{
 
 @media  (max-width: 768px) {
 
+    #hero_image {
+        width: 90%;
+    }
+
+    #menu li {
+       margin-right: 15px;
+    }
+
     #email_request{
-        right: 25%;
+        right: 5%;
     }
     .box{
         margin-left: 5%;
