@@ -1,9 +1,7 @@
 # INSTANT photografer websiter - A   Milestone Project
 
-
-
-
-
+<img src="assets/image_readme/resposive_readme.jpg" alt="My website">
+My first milestone project, undertaken as part of the Code Institutes Diploma in Software Development.
 
 # Who Is This Website For?
 
