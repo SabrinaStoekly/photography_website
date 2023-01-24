@@ -1,108 +1,96 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# INSTANT photografer websiter - A   Milestone Project
 
-Welcome SabrinaStoekly,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+# Who Is This Website For?
 
-A blue button should appear to click: _Make Public_,
+I  have created this website for people who a looking for the services of professional photographer, either for photo shooting for evets, weddings or any memorable occasions.
 
-Another blue button should appear to click: _Open Browser_.
+The site is for any person lacated on Cork and look for a photorapher.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The aim of this website is to increse the photographers potentiol online reach.
 
-A blue button should appear to click: _Make Public_,
+# UX - User Experience 
+The project was planned in 5 stages. 
+- Strategy Plane 
+- Scope Plane 
+- Structure Plane
+- Skeleton Plane
+- Surface Plane 
 
-Another blue button should appear to click: _Open Browser_.
+##  User Stories 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+ - As a user I want to be able to easily reach out to the photographers.
+-  As a user I want that the website to have a good portifolio of the photographer's work.
+-  As a user I want that the site have easy navagation
+- As a user I expect that the website would have a link to the social media profiles.
 
-To log into the Heroku toolbelt CLI:
+ ## The Owner 
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- As the owner I want the website to be atractive to the user while displaying the work of the potographers
+- As the owner I want the website to be easy to navigate.
+- As the owner I want that the contact infomation and the social media be easy to locate 
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+# The Scope Plane
+The features of this project:
+3 pages
+A home page with live links and a form 
+1 page to include pictures and live links
+1 page to have pictures and a article  abour us as long with live links
 
-------
+# The Structure Plane 
+The website has a home page, gallery page and an about us  page The design of each page has been kept simplistic. 
+The goal of the site is to only contain information which makes a positive impression without overwhelming the overall design. 
 
-## Release History
+## Home Page 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+<!-- Photo -->
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+From the moment you visit the website it is claer from the hero image it is a photographers website. The image has a contact us feature.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+### Navagation 
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+Avaible in the hearder, just under the nameof the company, the navagation baris reponsiveand includes three-pages; 'Home', 'Gallery' and 'About us'. Allowing the user to easly navagate through the website. 
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+### Welcome 
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+A short paragraph that introduces a bit of the company for the user. Also has a link for the 'About us' page in case the user wants to know more about the company.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+### Contact Us
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+The contact us feature is easy  located on the home, if the user has any questions related to the company's services, such as price.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+### Footer
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+The footer has a simple layout, contaning only the social medias links and the phone number for contact.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Gallery
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+A selection of pictures showing the pictures "taken" by the photographer team.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+## About Us
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+A page where the user can find more infomations about the company and the photograpers team.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+# The Skeleton Plane 
+The design of this project was to make the content simplistic to view on any screen size but being mobile friendly was also key. 
+Below is a link to the wireframes I had completed 
 
-------
 
-## FAQ about the uptime script
+# Testing
+ 
+ -  I have tested all the link on the website, to make sure they are working.
+ -  At first when I was adding the font, they were not working on the site. I searched as to why this may have been and found that I had not placed the media link into the CSS file.
+ - I have tested the resposaviness of the website, look good on every  sise screen.
+ -  I have confimed the form work,  requies entry on every file.
 
-**Why have you added this script?**
+  ## Validator 
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+  HTML
 
-**How will this affect me?**
+  CSS
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+  Accesibility 
