@@ -151,7 +151,7 @@ hr {
     margin: 0 auto;
     width: 80%;
     display: grid;
-    grid-template-columns: 3fr 3fr ;
+    grid-template-columns: 1fr 1fr ;
    
     
   }     
@@ -203,6 +203,12 @@ footer{
     color: #e79e47;
 }
 
+.social_networks a {
+    font-size: 150%;
+    padding: 1%;
+    color: #e79e47;
+}
+
 /* Form */
 
 input{
@@ -237,6 +243,7 @@ textarea{
         color: #e79e47;
         text-align: center;
     }
+
     .inputuser{
         background: none;
         border: none;
@@ -267,6 +274,7 @@ textarea{
     
     #gallery > img {
         width: 100%;
+        height: 250px;
     }
 
     /* About Us */
@@ -305,7 +313,7 @@ textarea{
 @media screen and (max-width: 950px){
     
     #services {
-        grid-template-columns: 3fr ;
+        grid-template-columns: 1fr ;
       }     
     }
 
@@ -331,6 +339,9 @@ textarea{
         #gallery {
             columns: 2;            
             width: 90%;           
+        }
+        #gallery > img {
+           height: 200px;
         }
 }
 
