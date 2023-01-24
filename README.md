@@ -47,23 +47,31 @@ The goal of the site is to only contain information which makes a positive impre
 
 ## Home Page 
 
-<img src="assests/image_readme/header_readme.jpg" alt="Home Page">
+ <img src="assets/image_readme/header_readme.jpg" alt="home page">
+
 
 From the moment you visit the website it is claer from the hero image it is a photographers website. The image has a contact us feature.
 
 ### Navagation 
-
+<img src="assets/image_readme/nav_bar_readme.jpg" alt="nav bar">
 Avaible in the hearder, just under the nameof the company, the navagation baris reponsiveand includes three-pages; 'Home', 'Gallery' and 'About us'. Allowing the user to easly navagate through the website. 
 
 ### Welcome 
+<img src="assets/image_readme/welcome_readme.jpg" alt="welcome text">
 
 A short paragraph that introduces a bit of the company for the user. Also has a link for the 'About us' page in case the user wants to know more about the company.
 
+## Services
+<img src="assets/image_readme/services_readme.jpg" alt="Services">
+
 ### Contact Us
+<img src="assets/image_readme/form_readme.jpg" alt="email resquest">
 
 The contact us feature is easy  located on the home, if the user has any questions related to the company's services, such as price.
 
 ### Footer
+
+ <img src="assets/image_readme/footer_readme.jpg" alt="footer">
 
 The footer has a simple layout, contaning only the social medias links and the phone number for contact.
 
@@ -79,6 +87,11 @@ A page where the user can find more infomations about the company and the photog
 The design of this project was to make the content simplistic to view on any screen size but being mobile friendly was also key. 
 Below is a link to the wireframes I had completed 
 
+[Worframe Home Page](assets/image_readme/workframe_home_page.jpg)
+
+[Worframe Gallery Page](assets/image_readme/workframe_gallery.jpg)
+
+[Worframe About Us Page](assets/image_readme/workframe_about_us.jpg)
 
 # Testing
  
@@ -90,7 +103,25 @@ Below is a link to the wireframes I had completed
   ## Validator 
 
   HTML
-
+<img src="assets/image_readme/html_readme.jpg" alt="">
   CSS
-
+ <img src="assets/image_readme/css_readme.jpg" alt="">
   Accesibility 
+  <img src="assets/image_readme/accessibility_readme.jpg" alt="">
+
+# Technologies used
+- [HTML5](https://en.wikipedia.org/wiki/HTML) for markup 
+- [CSS3](https://en.wikipedia.org/wiki/CSS) for style 
+- [Google Fonts](https://fonts.google.com/) for fonts 
+- [Github]( https://github.com/) to keep the file 
+- [Gitpod]( https://www.gitpod.io/) for version control
+- [Colorhunt.co](https://colorhunt.co/) to build a colour palette for the site 
+- [Font Awesome](https://fontawesome.com/v5.15/icons) for icons
+
+# Resources
+- [Code Institute](https://codeinstitute.net/) Course material
+- [W3Schools]( https://www.w3schools.com/) 
+- [Am I Responsive](http://ami.responsivedesign.is/) – Check the sites responsiveness
+- [W3C](https://validator.w3.org/) Validate HTML code
+- [W3C]( https://jigsaw.w3.org/css-validator/) CSS Validation 
+- [W3Schools](https://www.w3schools.com/) - helped me in researching and fixing errors along the way
