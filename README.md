@@ -47,7 +47,7 @@ The goal of the site is to only contain information which makes a positive impre
 
 ## Home Page 
 
-<!-- Photo -->
+<img src="assests/image_readme/header_readme.jpg" alt="Home Page">
 
 From the moment you visit the website it is claer from the hero image it is a photographers website. The image has a contact us feature.
 
