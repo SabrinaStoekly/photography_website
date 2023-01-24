@@ -1,4 +1,4 @@
-# INSTANT photografer websiter - A   Milestone Project
+# INSTANT photographer websiter - A   Milestone Project
 
 <img src="assets/image_readme/resposive_readme.jpg" alt="My website">
 My first milestone project, undertaken as part of the Code Institutes Diploma in Software Development.
@@ -50,9 +50,9 @@ The goal of the site is to only contain information which makes a positive impre
 
 From the moment you visit the website it is claer from the hero image it is a photographers website. The image has a contact us feature.
 
-### Navagation 
+### Navigation 
 <img src="assets/image_readme/nav_bar_readme.jpg" alt="nav bar">
-Avaible in the hearder, just under the nameof the company, the navagation baris reponsiveand includes three-pages; 'Home', 'Gallery' and 'About us'. Allowing the user to easly navagate through the website. 
+Avaible in the hearder, just under the nameof the company, the navagation baris reponsiveand includes three-pages; 'Home', 'Gallery' and 'About us'. Allowing the user to easily navagate through the website. 
 
 ### Welcome 
 <img src="assets/image_readme/welcome_readme.jpg" alt="welcome text">
