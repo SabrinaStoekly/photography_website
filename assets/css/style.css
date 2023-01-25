@@ -343,6 +343,18 @@ textarea{
         #gallery > img {
            height: 100px;
         }
+        #article_contant p {
+            letter-spacing: 4px;
+            width: 80%;
+            margin: 0 auto;         
+        }
+        
+        #article_contant > img {
+           height: 180px;
+           width: 90%;
+           margin-top: 30px;
+           margin-bottom: 30px;
+        }
 }
 
 
