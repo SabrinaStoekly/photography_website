@@ -1,7 +1,7 @@
 # INSTANT photographer websiter - A   Milestone Project
 
 <img src="assets/image_readme/resposive_readme.jpg" alt="My website">
-My first milestone project, undertaken as part of the Code Institutes Diploma in Software Development.
+My first milestone project, undertaken as part of the Code Institutes Diploma in Software Development. 
 
 # Who Is This Website For?
 
@@ -93,6 +93,8 @@ Below is a link to the workframe I had completed
 
 ##  Color Palette 
 
+<img src="assets/image_readme/color_palette_read.me.jpg" alt="Color Palette">
+
 I used the site colorhunt.co to bring together a colour pallet me for the vase website. The chose of the dark background was made so the photos on the website would be more visible and attacking, however not too dark therefore bring a more positive image for the website as long with the two yellow tones to bring some love into the site.
 
 ## Fonts 
@@ -115,11 +117,11 @@ Below are features that I would have liked to add but have been unable to do so 
   ## Validator 
 
   HTML
-<img src="assets/image_readme/html_readme.jpg" alt="">
+<img src="assets/image_readme/html_readme.jpg" alt="HTML Validator">
   CSS
- <img src="assets/image_readme/css_readme.jpg" alt="">
+ <img src="assets/image_readme/css_readme.jpg" alt="CSS Validator">
   Accesibility 
-  <img src="assets/image_readme/accessibility_readme.jpg" alt="">
+  <img src="assets/image_readme/accessibility_readme.jpg" alt="Accesibility">
 
 # Technologies used
 - [HTML5](https://en.wikipedia.org/wiki/HTML) for markup 
