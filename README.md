@@ -83,13 +83,27 @@ A page where the user can find more infomations about the company and the photog
 
 # The Skeleton Plane 
 The design of this project was to make the content simplistic to view on any screen size but being mobile friendly was also key. 
-Below is a link to the wireframes I had completed 
+Below is a link to the workframe I had completed 
 
-[Worframe Home Page](assets/image_readme/workframe_home_page.jpg)
+[Workframe Home Page](assets/image_readme/workframe_home_page.jpg)
 
-[Worframe Gallery Page](assets/image_readme/workframe_gallery.jpg)
+[Workframe Gallery Page](assets/image_readme/workframe_gallery.jpg)
 
-[Worframe About Us Page](assets/image_readme/workframe_about_us.jpg)
+[Workframe About Us Page](assets/image_readme/workframe_about_us.jpg)
+
+##  Color Palette 
+
+I used the site colorhunt.co to bring together a colour pallet me for the vase website. The chose of the dark background was made so the photos on the website would be more visible and attacking, however not too dark therefore bring a more positive image for the website as long with the two yellow tones to bring some love into the site.
+
+## Fonts 
+
+I used google fonts to discover and use fonts that would suit my website. I’ve chosen, Unbounded, cursive for the title of the website so I could bring a more professional looking and Oswald, sans-serif to complete the looking of the INSTANT website
+
+## Features for the future
+
+Below are features that I would have liked to add but have been unable to do so yet due to time constraints and not having the knowledge to do so yet either.
+ - I would like to add a page confirming the “email sent” for when the button submit on the form be clicked the page opens 
+ - I would like to add a videos on the gallery page with more photos and videos of photography shooting
 
 # Testing
  
